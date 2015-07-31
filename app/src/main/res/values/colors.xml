@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBackground">#FFD073</color>
+    <color name="backgroundWelcome">#33CCCC</color>
+    <color name="textWelcome">#FFFFFF</color>
+    <color name="borderRegistration">#BF8F30</color>
+    <color name="backgroundButton">#009999</color>
+</resources>

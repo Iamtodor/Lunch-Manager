@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lunch Manager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="singInButton">Sign in</string>
+    <string name="registerButton">Register</string>
+    <string name="userNameHint">Email</string>
+    <string name="userPasswordHint">Password</string>
+    <string name="forgotPasswordButton">Forgot password?</string>
+    <string name="registrationHintEmail">Email address</string>
+    <string name="registrationPassword">Password (6 chars at least)</string>
+    <string name="registrationName">Your name</string>
+    <string name="registrationSignUp">Sign up!</string>
+    <string name="welcomeText">Sing in to LunchManag</string>
+    <string name="registerTextView">If you don\'t have an account, sing up now for a free account.</string>
+    <string name="haveAccount">Already have an account?</string>
+</resources>
